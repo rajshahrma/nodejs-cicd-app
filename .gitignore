@@ -1,0 +1,8 @@
+node_modules/
+coverage/
+.env
+*.log
+.DS_Store
+backup_*
+deployment/
+commit-id.txt
